@@ -3,7 +3,6 @@
 manifest:
   defaults:
     remote: zephyrproject-rtos
-    revision: master
 
   remotes:
     - name: zephyrproject-rtos
