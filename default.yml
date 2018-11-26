@@ -1,5 +1,9 @@
 # The default West manifest file to be used for Zephyr.
 
+west:
+  url: https://github.com/zephyrproject-rtos/west
+  revision: master
+
 manifest:
   defaults:
     remote: upstream
