@@ -13,4 +13,4 @@ manifest:
     - name: some-foundries-app-1
     - name: some-foundries-app-2
     - name: ext
-      revision: 1234abcd
+      revision: d00dbaad
