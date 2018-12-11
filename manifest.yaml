@@ -1,0 +1,13 @@
+manifest:
+  defaults:
+    remote: upstream
+    revision: master
+
+  remotes:
+    - name: upstream
+      url: https://github.com/zephyrproject-rtos
+
+  projects:
+    - name: zephyr
+    - name: ext
+      revision: 1234abcd
