@@ -10,4 +10,4 @@ manifest:
   projects:
     - name: zephyr
     - name: ext
-      revision: 1234abcd
+      revision: d00dbaad
