@@ -1,13 +1,16 @@
 manifest:
   defaults:
-    remote: upstream
+    remote: foundriesio
     revision: master
 
   remotes:
-    - name: upstream
-      url: https://github.com/zephyrproject-rtos
+    - name: foundriesio
+      url: https://github.com/foundriesio
 
   projects:
     - name: zephyr
+    - name: mcuboot
+    - name: some-foundries-app-1
+    - name: some-foundries-app-2
     - name: ext
       revision: 1234abcd
