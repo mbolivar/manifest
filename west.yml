@@ -15,3 +15,5 @@ manifest:
 
   projects:
     - name: zephyr
+      revision: topic-west
+      west-commands: scripts/west-commands.yml
